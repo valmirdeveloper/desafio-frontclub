@@ -3,13 +3,10 @@
 }
 
 
-body {
-    background-color: gold;
-}
+
 
 
 ul{
-    background-color: aqua;
     border: 1px solid green;
     display: flex;
     list-style: none;
